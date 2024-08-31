@@ -1,4 +1,5 @@
-# Hey there, I'm Abdul Rehman 👋
+# Hey there, I'm Abdul Rehman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 **Full-Stack Developer | MERN/MEAN Stack | Machine Learning Enthusiast | Open-source Contributor | Lifelong Learner**
 
