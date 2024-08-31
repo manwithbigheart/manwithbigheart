@@ -29,3 +29,7 @@
 - **SDE Intern** | **Hackathons** 🏆
 - **Open-Source Contributor** 🌐
 - **Full-Stack Developer** 🌟
+
+  ### **Viewers:**
+  ![](https://visitcount.itsvg.in/api?id=manwithbigheart&label=Profile%20Views&color=1&icon=2&pretty=true)
+
