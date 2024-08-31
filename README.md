@@ -10,8 +10,7 @@
 - TypeScript 🚀
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman07/)
 
 ### 🛠 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,6 +26,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=default)
 
 ### Achievements:
-- **SDE Intern** | **SIH'22 Winner** | **Hackathons** 🏆
+- **SDE Intern** | **Hackathons** 🏆
 - **Open-Source Contributor** 🌐
 - **Full-Stack Developer** 🌟
