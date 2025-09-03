@@ -1,13 +1,12 @@
 # Hey there, I'm Abdul Rehman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-**Full-Stack Developer | MERN/MEAN Stack | Machine Learning Enthusiast | Open-source Contributor | Lifelong Learner**
+**Full-Stack dreamer, MERN/MEAN explorer, ML enthusiast, open-source learner — just here to explore everything 💗r**
 
-### Interests:
-- Data Structures and Algorithms 📊
-- Backend Development 💻
-- JavaScript ⚡
-- TypeScript 🚀
+### Not much of a Hacker, not really a Software Developer, or a Security Researcher.
+### Neither a DSA Master, nor a Backend Genius, or a JavaScript Ninja, or a TypeScript Magician.
+### Just someone who wants to explore it all 💗
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman07/)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdulrehman8229)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manwithbigheart_/)   [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918149468452)   [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/manwithbigheart)  
