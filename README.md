@@ -46,7 +46,7 @@
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manwithbigheart&show_icons=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=default)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=radical)
