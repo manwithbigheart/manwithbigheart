@@ -48,6 +48,15 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manwithbigheart&show_icons=true&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=default)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=github-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manwithbigheart&theme=monokai)
+
+
 ### Achievements:
 - **SDE Intern** | **Hackathons** 🏆
 - **Open-Source Contributor** 🌐
