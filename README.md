@@ -12,7 +12,14 @@
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman07/)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdulrehman8229)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manwithbigheart_/)   [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918149468452)   [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/manwithbigheart)  
 
-  
+### What I've tried before I discovered my passion for programming
+👨‍🏫  Web tech trainer
+🛡️  Cybersecurity & ethical hacking
+📈  Stock market trader (India)
+♻️  Family business participant
+🏋️  Gym top performer
+✏️  Sketching | 🏸 Badminton | 🏏 Cricket | 🎲 Carrom
+
 
 ### 🛠 Tech Stack:
 ## Skills
