@@ -18,7 +18,7 @@
 📈  Stock market trader (India)                                                                                                                                                                        
 ♻️  Family business participant                                                                                                                                                                        
 🏋️  Gym top performer                                                                                                                                                                  
-✏️  Sketching | 🏸 Badminton | 🏏 Cricket | 🎲 Carrom
+✏️  Sketching | 🏸 Badminton | 🏏 Cricket |  Carrom
 
 
 ### 🛠 Tech Stack:
