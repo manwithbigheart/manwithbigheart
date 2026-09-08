@@ -1,7 +1,7 @@
 # Hey there, I'm Abdul Rehman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-**Full-Stack Developer | MERN/MEAN Stack | Machine Learning Enthusiast | Open-source Contributor | Lifelong Learner**
+**Java Full-Stack Developer | MERN/MEAN Stack | Machine Learning Enthusiast | Open-source Contributor | Lifelong Learner**
 
 
 ### Not much of a Hacker, not really a Software Developer, or a Security Researcher.
